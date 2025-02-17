@@ -64,7 +64,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENS
 
 A continuación, puedes ver un video de demostración del proyecto:
 
-<video width="600" controls>
-  <source src="./react-hooks.webm" type="video/webm">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[react-hooks.webm](https://github.com/user-attachments/assets/508a929b-ae61-48b0-b3dd-4ba120e78b98)
+
